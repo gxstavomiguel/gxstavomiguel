@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Gustavo</h2>
+<h2 align="left">Hi 👋! My name is Gustavo</h2>
 
 ###
 
@@ -8,6 +8,8 @@
 </div>
 
 ###
+
+<img align="right" height="150" src=""  />
 
 ###
 
@@ -35,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" alt="github logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="30" alt="mongodb logo"  />
 </div>
 
 ###
@@ -51,5 +55,7 @@
 ###
 
 <br clear="both">
+
+<img src="https://raw.githubusercontent.com/gxstavomiguel/gxstavomiguel/output/snake.svg" alt="Snake animation" />
 
 ###

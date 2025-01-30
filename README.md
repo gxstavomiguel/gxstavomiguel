@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [spring chatbot](https://github.com/gxstavomiguel/spring-chatbot)
 
-- 🌱 I’m currently learning **Java, Spring Boot, Typescript, NodeJS, AngularJS, ReactJS**
+- 🌱 I’m currently learning **Java, Spring, Typescript, NodeJS, Angular**
 
 - 👯 I’m looking to collaborate on [shad PS4](https://github.com/shadps4-emu/shadPS4)
 

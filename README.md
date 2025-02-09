@@ -1,11 +1,11 @@
 <h1 align="center">My name is Gustavo 👋</h1>
-<h3 align="center">An unemployed Full Stack developer in Brazil</h3>
+<h3 align="center">studying to be a full stack programmer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxstavomiguel&label=Profile%20views&color=0e75b6&style=flat" alt="gxstavomiguel" /> </p>
 
 - 🔭 I’m currently working on [spring chatbot](https://github.com/gxstavomiguel/spring-chatbot)
 
-- 🌱 I’m currently learning **Java, Spring, Typescript, NodeJS, Angular**
+- 🌱 I’m currently learning **Java, Spring, Typescript, Angular, AngularJS**
 
 - 👯 I’m looking to collaborate on [shad PS4](https://github.com/shadps4-emu/shadPS4)
 

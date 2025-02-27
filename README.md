@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxstavomiguel&label=Profile%20views&color=0e75b6&style=flat" alt="gxstavomiguel" /> </p>
 
-- 🔭 I’m currently working on [spring chatbot](https://github.com/gxstavomiguel/spring-chatbot)
+- 🔭 I’m currently working on [sistema-frontend](https://github.com/gxstavomiguel/sistema-frontend) & [sistema-backend](https://github.com/gxstavomiguel/sistema-backend-2)
 
 - 🌱 I’m currently learning **Java, Spring, Typescript, Angular, AngularJS**
 

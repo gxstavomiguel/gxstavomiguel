@@ -1,5 +1,5 @@
 <h1 align="center">My name is Gustavo 👋</h1>
-<h3 align="center"> [Portfólio](https://gxstavomiguel.github.io)/</h3>
+### [Portfólio](https://gxstavomiguel.github.io/)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxstavomiguel&label=Profile%20views&color=0e75b6&style=flat" alt="gxstavomiguel" /> </p>
 

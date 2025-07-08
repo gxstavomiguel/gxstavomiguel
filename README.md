@@ -1,17 +1,13 @@
 <h1 align="center">My name is Gustavo 👋</h1>
-<h3 align="center">studying to be a full stack programmer</h3>
+<h3 align="center"> [Portfólio](https://gxstavomiguel.github.io)/</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxstavomiguel&label=Profile%20views&color=0e75b6&style=flat" alt="gxstavomiguel" /> </p>
-
-- 🔭 I’m currently working on [sistema-frontend](https://github.com/gxstavomiguel/sistema-frontend) & [sistema-backend](https://github.com/gxstavomiguel/sistema-backend-2)
 
 - 🌱 I’m currently learning **Java, Spring, Typescript, Angular, AngularJS**
 
 - 👯 I’m looking to collaborate on [shad PS4](https://github.com/shadps4-emu/shadPS4)
 
 - 📫 How to reach me **gustavomiguelsilvafc@gmail.com**
-
-- ⚡ Fun fact **I have more than 5,000 hours played by Counter Strike and I'm still nova**
 
 <p align="left">
 </p>

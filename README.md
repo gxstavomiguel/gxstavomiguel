@@ -1,9 +1,9 @@
-<h1 align="center">My name is Gustavo 👋</h1>
+<h1 align="center">Hello! My name is Gustavo 👋</h1>
 <h3 align="center"><a href="https://gxstavomiguel.github.io/">Portfólio</a></h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gxstavomiguel&label=Profile%20views&color=0e75b6&style=flat" alt="gxstavomiguel" /> </p>
 
-- 🌱 I’m currently learning **Java, Spring, Typescript, Angular, AngularJS**
+- 🌱 I’m currently learning **Java, Spring, Typescript, Angular, React**
 
 - 👯 I’m looking to collaborate on [shad PS4](https://github.com/shadps4-emu/shadPS4)
 
